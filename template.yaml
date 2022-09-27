@@ -1,0 +1,7 @@
+parameters:
+- question: What is your component name?
+  value: Name
+- question: Can you describe your component?
+  value: Description
+- question: What is your CSI?
+  value: CSI
